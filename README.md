@@ -1,2 +1,0 @@
-# datasciencecoursea
-for coursera only
